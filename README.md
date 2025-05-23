@@ -54,3 +54,8 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 3.  Commit suas modificações: `git commit -m 'feat: Adiciona nova funcionalidade'`
 4.  Envie para a branch principal: `git push origin minha-feature`
 5.  Abra um Pull Request.
+
+## Criador
+* Nome: [Miguel Carmo de Aquino]
+* Email: [miguelcarmo5@hotmail.com]
+* GitHub: https://github.com/miguelcarmo5
