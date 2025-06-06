@@ -35,7 +35,7 @@ capacitacao git/
 │   └── fonts/
 │       └── fonts.css
 │   └── images/
-│       └── ... (imagens)
+│       └── (imagens)
 ├── js/
 │   └── scripts.js
 ├── styles/
